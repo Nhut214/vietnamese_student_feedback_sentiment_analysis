@@ -1,2 +1,2 @@
-# Đây là bài nguyên cứu phân loại cảm xúc
+# Đây là bài nghiên cứu phân loại cảm xúc
 
