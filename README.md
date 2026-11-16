@@ -44,7 +44,9 @@ Sentiment classes:
 - PyTorch
 - Hugging Face
 
-## Author
+## 🤗 Hugging Face
 
-Nhut214
+The trained models and interactive demo are available
+on Hugging Face.
+- Demo: [Try demo](https://huggingface.co/spaces/hnhut/uit-vsfc-demo)
 
